@@ -28,4 +28,8 @@ Como o objetivo do modelo é alcançar uma boa capacidade preditiva para os crit
  
  
 ## Acesse o arquivo  *Analise_amnzn.ipynb* para visualizar a análise.
+
+![alt text](azn.png)
+
+
 ---
