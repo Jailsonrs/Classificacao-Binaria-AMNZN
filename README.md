@@ -1,7 +1,7 @@
 ### Classificacao-Binaria-AMNZN
 
 
-###Outline
+### Outline
 
 * Introdução
 * Metodologia
@@ -27,5 +27,5 @@ mínimo 4% e que não desvalorize mais que 2,5%.
 Como o objetivo do modelo é alcançar uma boa capacidade preditiva para os critérios acima, não focaremos tanto nos preditores lineares e suas propriedades estatísticas e nem em interpretabilidade. Portanto, tomaremos uma abordagem focada em ***Machine Learning***.
  
  
- 
+## Acesse o aruivo  *Analise_amnzn.ipynb* para visualizar a anaálise.
 ---
