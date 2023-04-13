@@ -28,7 +28,7 @@ Como o objetivo do modelo é alcançar uma boa capacidade preditiva para os crit
  
  
 ## Acesse o arquivo  *Analise_amnzn.ipynb* para visualizar a análise.
-## ou acesse https://colab.research.google.com/drive/1ZwcBQwXe6ehFy6nsnYKgGvzebreyVSod?usp=sharing#scrollTo=KASZHGtavll-
+## ou acesse https://colab.research.google.com/github/Jailsonrs/Classificacao-Binaria-AMNZN/blob/main/Analise_amnzn.ipynb
 ![alt text](azn.png)
 
 
